@@ -9,9 +9,9 @@ function App() {
     <>
 
       <Navigation />
-
+      <HomePage />
       <Routes>
-        <Route path='/' element={<HomePage />} />
+        {/* <Route path='/' element={} /> */}
         <Route path='/favourites' element={<FavouritesPage />} />
       </Routes>
 
