@@ -2,8 +2,8 @@
   "name": "redux-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://daniil-102.github.io/gitRepos/",
   "dependencies": {
-    "homepage": "https://daniil-102.github.io/gitRepos/",
     "@reduxjs/toolkit": "^1.9.5",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
