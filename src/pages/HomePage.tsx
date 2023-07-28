@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from 'react'
 import { useLazyGetUserReposQuery, useSearchUsersQuery } from '../store/github/github.api'
-import { log } from 'console'
 import { useDebounce } from '../hooks/debounce'
 import { RepoCart } from '../components/RepoCart'
 
